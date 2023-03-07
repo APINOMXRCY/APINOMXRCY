@@ -42,6 +42,28 @@ Alchemist: Berserker Brew
 
 Druid: Thorn Swarm
 
+# START THE RECORDING
+IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
+**ALSO IMPORTANT IS TO DO THAT IN THE SAME ORDER, DO NOT UPGRADE BEFORE OR AFTER, ELSE YOU WONT HAVE ENOUGH MONEY!**
+1. Press F12
+2. Go as quickly as you can into extreme maps and Dark Castle Deflation
+3. Click away the message and start placing 2 Monkey Villages above the Stone and Upgrade them to 002
+![Bild_2023-03-07_211858422](https://user-images.githubusercontent.com/96729321/223542811-05805306-d401-4de8-a761-e68daf564769.png)
+4. Place a Supermonkey down on the Right side, Upgrade it to  203
+5. Place Obyn right next to it
+6. Place the Ninja Monkey right next to Obyn and upgrade it to 401
+7. At the End it should look something like this (WERE NOT DONE YET!)
+![image](https://user-images.githubusercontent.com/96729321/223543431-5cbc1a64-87be-440d-afd0-15ccb57f41cf.png)
+8. Sell the 2 Monkey Villages and Place the Alchemist wherever the 2 Monkey Villages where at upgrade it  to 400
+9. Place a Druid right next to the Ninja, if you have enough money left, upgrade it to 010, if not, let it be
+10. At the end it should look like that
+![image](https://user-images.githubusercontent.com/96729321/223544044-0181922d-fc08-4251-84c4-176400b1f2f6.png)
+
+
+ 
+
+
+
 
 # START THE FARM
 Positionate your Mouse directly over the Play button after opening Tinytask, clicking on Open and opening the File i put into Releases
