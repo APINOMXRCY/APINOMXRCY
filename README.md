@@ -77,5 +77,6 @@ Positionate your Mouse directly over the Play button after opening Tinytask and 
 NOTE: Click on Settings, Continios Playback if isnt already ticked
 
 ![Bild_2023-03-07_015631419](https://user-images.githubusercontent.com/96729321/223291309-08ea20a7-2a32-4be9-a13f-762c7eab9d11.png)
+
 After hovering over the playbutton, click F8
 
