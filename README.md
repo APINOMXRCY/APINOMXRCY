@@ -57,6 +57,7 @@ IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
 8. Sell the 2 Monkey Villages and Place the Alchemist wherever the 2 Monkey Villages where at upgrade it  to 400
 9. Place a Druid right next to the Ninja, if you have enough money left, upgrade it to 010, if not, let it be
 10. At the end it should look like that
+
 ![image](https://user-images.githubusercontent.com/96729321/223544044-0181922d-fc08-4251-84c4-176400b1f2f6.png)
 
 
