@@ -45,6 +45,7 @@ Druid: Thorn Swarm
 # START THE RECORDING
 IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
 **ALSO IMPORTANT IS TO DO THAT IN THE SAME ORDER, DO NOT UPGRADE BEFORE OR AFTER, ELSE YOU WONT HAVE ENOUGH MONEY!**
+0. Hover over Play Button
 1. Press F12
 2. Go as quickly as you can into extreme maps and Dark Castle Deflation
 3. Click away the message and start placing 2 Monkey Villages above the Stone and Upgrade them to 002
@@ -59,7 +60,9 @@ IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
 10. At the end it should look like that
 
 ![image](https://user-images.githubusercontent.com/96729321/223544044-0181922d-fc08-4251-84c4-176400b1f2f6.png)
-
+11. Let the round go through until round 60, click on Home, dont forget to double click in the main menu (if you level up while afk farming) and hover over the play button again, press F12 to save.
+12. Open Tinytask, click on save and copy paste it 3 times (if you accidently overwrite the one you dont lose it)
+13. Now last point, do everything AS FAST AS POSSIBLE, to get the most profit out of it, dont forget to wait about 3 seconds at the end of the round because the alchemist throws are randomized and the round can end faster or slower.
 
  
 
@@ -67,13 +70,9 @@ IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
 
 
 # START THE FARM
-Positionate your Mouse directly over the Play button after opening Tinytask, clicking on Open and opening the File i put into Releases
+Positionate your Mouse directly over the Play button after opening Tinytask and opening the file you made.
 NOTE: Click on Settings, Continios Playback if isnt already ticked
 
 ![Bild_2023-03-07_015631419](https://user-images.githubusercontent.com/96729321/223291309-08ea20a7-2a32-4be9-a13f-762c7eab9d11.png)
 After hovering over the playbutton, click F8
 
-
-# What does it do?
-
-I dont know exactly the XP given, but the used Monkeys are leveling extremely fast, the farm has permanent clicking feature to not stop the farm after leveling up, the only problem is (thats why it not a 100% auto farm) because of the collection event
