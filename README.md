@@ -61,7 +61,9 @@ IMPORTANT IS TO USE THE HOTKEYS TO SPAWN, DO NOT USE SCROLLWHEEL OR THE SIDEBAR!
 10. At the end it should look like that
 
 ![image](https://user-images.githubusercontent.com/96729321/223544044-0181922d-fc08-4251-84c4-176400b1f2f6.png)
+
 11. Let the round go through until round 60, click on Home, dont forget to double click in the main menu (if you level up while afk farming) and hover over the play button again, press F12 to save.
+
 12. Open Tinytask, click on save and copy paste it 3 times (if you accidently overwrite the one you dont lose it)
 13. Now last point, do everything AS FAST AS POSSIBLE, to get the most profit out of it, dont forget to wait about 3 seconds at the end of the round because the alchemist throws are randomized and the round can end faster or slower.
 
