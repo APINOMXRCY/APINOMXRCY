@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **[FutureSense](https://github.com/APINOMXRCY/FutureSense)**.
 - 💬 Ask me about **C# development**, **API integrations**, and **app security**.
-- 📫 You can reach me via email: **nomxrcy@example.com**
+- 📫 You can reach me via email: **firezarmy@gmail.com**
 - ⚡ Fun fact: **I built my first API when I was 12!**
 
 ---
